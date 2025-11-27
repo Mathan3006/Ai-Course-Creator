@@ -1,5 +1,5 @@
 # Ai-Course-Creator
-# First create ** .env **  file
+# First create .env  file
 ## within that :
 ` GOOGLE_API_KEY = "KEY" `
 # Start with:
